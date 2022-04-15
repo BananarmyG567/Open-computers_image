@@ -6,6 +6,7 @@ For the python code, you will have to install NumPy and opencv.
 
 
 https://numpy.org/install/ Numpy: pip install numpy
+
 https://pypi.org/project/opencv-python/ Opencv: pip install opencv-python
 
 command: screendraw (filepath)
